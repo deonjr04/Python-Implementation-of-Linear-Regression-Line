@@ -15,6 +15,8 @@ According to Body Mass Index (BMI) The average weights of healthy body for the c
 
 
 # The Model And Discussion On Accuricy Of The Model
+
+
 When I apply line of best fit function (bestFitLine()) the model is
 
 w = 4.024h - 132.22
@@ -30,8 +32,12 @@ That is very close to 1. Which means the model is very strong, almost perfect an
 
 ![Screenshot (105)](https://github.com/deonjr04/Python-Implementation-of-Linear-Regression-Line/assets/146729697/882d576d-8a07-4697-9108-1ecff2d94f55)
 
+
+
 # The accuracy of the model in the scatter plot
 As it is seen in the scatter plot above the model that I found is acurate. So the predicted weight in model is 149.46 which is very closed to actual weight. I found the percenttage of the difference of actual and predicted weight, it is 0.31 %, which is enough small. Thus, I can take the weight from te model as actual weights.
+
+
 
 
 
